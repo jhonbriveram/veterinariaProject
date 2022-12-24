@@ -1,0 +1,6 @@
+C:\Users\jhonb\source\repos\VeterinarioProject\VeterinarioEN\bin\Debug\VeterinarioEN.dll
+C:\Users\jhonb\source\repos\VeterinarioProject\VeterinarioEN\bin\Debug\VeterinarioEN.pdb
+C:\Users\jhonb\source\repos\VeterinarioProject\VeterinarioEN\obj\Debug\VeterinarioEN.csproj.AssemblyReference.cache
+C:\Users\jhonb\source\repos\VeterinarioProject\VeterinarioEN\obj\Debug\VeterinarioEN.csproj.CoreCompileInputs.cache
+C:\Users\jhonb\source\repos\VeterinarioProject\VeterinarioEN\obj\Debug\VeterinarioEN.dll
+C:\Users\jhonb\source\repos\VeterinarioProject\VeterinarioEN\obj\Debug\VeterinarioEN.pdb

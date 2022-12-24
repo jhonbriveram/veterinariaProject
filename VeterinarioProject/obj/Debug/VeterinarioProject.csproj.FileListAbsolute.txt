@@ -1,0 +1,2 @@
+C:\Users\jhonb\source\repos\VeterinarioProject\VeterinarioProject\obj\Debug\VeterinarioProject.csproj.AssemblyReference.cache
+C:\Users\jhonb\source\repos\VeterinarioProject\VeterinarioProject\obj\Debug\VeterinarioProject.csproj.CoreCompileInputs.cache

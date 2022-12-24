@@ -1,0 +1,9 @@
+C:\Users\jhonb\source\repos\VeterinarioProject\VeterinarioAD\bin\Debug\VeterinarioAD.dll
+C:\Users\jhonb\source\repos\VeterinarioProject\VeterinarioAD\bin\Debug\VeterinarioAD.pdb
+C:\Users\jhonb\source\repos\VeterinarioProject\VeterinarioAD\bin\Debug\VeterinarioEN.dll
+C:\Users\jhonb\source\repos\VeterinarioProject\VeterinarioAD\bin\Debug\VeterinarioEN.pdb
+C:\Users\jhonb\source\repos\VeterinarioProject\VeterinarioAD\obj\Debug\VeterinarioAD.csproj.AssemblyReference.cache
+C:\Users\jhonb\source\repos\VeterinarioProject\VeterinarioAD\obj\Debug\VeterinarioAD.csproj.CoreCompileInputs.cache
+C:\Users\jhonb\source\repos\VeterinarioProject\VeterinarioAD\obj\Debug\VeterinarioAD.csproj.CopyComplete
+C:\Users\jhonb\source\repos\VeterinarioProject\VeterinarioAD\obj\Debug\VeterinarioAD.dll
+C:\Users\jhonb\source\repos\VeterinarioProject\VeterinarioAD\obj\Debug\VeterinarioAD.pdb

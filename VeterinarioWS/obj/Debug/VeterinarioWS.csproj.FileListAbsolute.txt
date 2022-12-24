@@ -1,0 +1,14 @@
+C:\Users\jhonb\source\repos\VeterinarioProject\VeterinarioWS\bin\VeterinarioWS.dll.config
+C:\Users\jhonb\source\repos\VeterinarioProject\VeterinarioWS\bin\VeterinarioWS.dll
+C:\Users\jhonb\source\repos\VeterinarioProject\VeterinarioWS\bin\VeterinarioWS.pdb
+C:\Users\jhonb\source\repos\VeterinarioProject\VeterinarioWS\bin\VeterinarioEN.dll
+C:\Users\jhonb\source\repos\VeterinarioProject\VeterinarioWS\bin\VeterinarioRN.dll
+C:\Users\jhonb\source\repos\VeterinarioProject\VeterinarioWS\bin\VeterinarioAD.dll
+C:\Users\jhonb\source\repos\VeterinarioProject\VeterinarioWS\bin\VeterinarioEN.pdb
+C:\Users\jhonb\source\repos\VeterinarioProject\VeterinarioWS\bin\VeterinarioRN.pdb
+C:\Users\jhonb\source\repos\VeterinarioProject\VeterinarioWS\bin\VeterinarioAD.pdb
+C:\Users\jhonb\source\repos\VeterinarioProject\VeterinarioWS\obj\Debug\VeterinarioWS.csproj.AssemblyReference.cache
+C:\Users\jhonb\source\repos\VeterinarioProject\VeterinarioWS\obj\Debug\VeterinarioWS.csproj.CoreCompileInputs.cache
+C:\Users\jhonb\source\repos\VeterinarioProject\VeterinarioWS\obj\Debug\VeterinarioWS.csproj.CopyComplete
+C:\Users\jhonb\source\repos\VeterinarioProject\VeterinarioWS\obj\Debug\VeterinarioWS.dll
+C:\Users\jhonb\source\repos\VeterinarioProject\VeterinarioWS\obj\Debug\VeterinarioWS.pdb
